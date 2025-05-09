@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @SaeedRose
-- 👀 I’m interested in programming, website developing, data learning, machine learning
-- 🌱 I’m currently learning html, css,JS,...
+- 👀 I’m interested in, data learning, machine learning
 
 
 <!---
